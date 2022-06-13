@@ -61,7 +61,7 @@ public class Stepdefs {
     public void setUp() throws Throwable {
 
         username = "shubhamr"; //replace with your username
-        authkey = "CCCCTfelp95y0WKq0MSKORBzWD7xpFGOTv5KlMTZ18qnAcGjId"; //replace with your authkey
+        authkey = ""; //replace with your authkey
 
         String browser = System.getProperty("browser");
 
