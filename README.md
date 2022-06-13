@@ -1,7 +1,8 @@
-<h1><strong>Getting Started with Cucumber for web automation</strong></h1>
-<em>For this document, we provide an example test located in our <a href="https://github.com/crossbrowsertesting/selenium-cucumber-java">Cucumber Java Github Repository</a>.</em>
 
-Want a powerful and easy to use command line tool for running Selenium tests? <a href="https://github.com/cucumber/cucumber-js">Cucumber</a> might be the option for you. Cucumber provides language-bindings for the powerful browser-driving tool <a href="http://www.seleniumhq.org/docs/" rel="nofollow">Selenium</a>. Its <a href="https://docs.cucumber.io/gherkin/" rel="nofollow">Gherkin</a> language allows you to write your tests in a way that can be easily read by anyone on your team. Cucumber Java integrates easily with the CrossBrowserTesting platform, so you can perform tests on a wide variety of OS/Device/Browser combinations, all from one test.
+
+
+
+Want a powerful and easy to use command line tool for running Selenium tests? <a href="https://github.com/cucumber/cucumber-js">Cucumber</a> might be the option for you. Cucumber provides language-bindings for the powerful browser-driving tool <a href="http://www.seleniumhq.org/docs/" rel="nofollow">Selenium</a>. Its <a href="https://docs.cucumber.io/gherkin/" rel="nofollow">Gherkin</a> language allows you to write your tests in a way that can be easily read by anyone on your team. Cucumber Java integrates easily with the Lambdatest platform, so you can perform tests on a wide variety of OS/Device/Browser combinations, all from one test.
 <h3>Let's walk through getting setup.</h3>
 <strong>1.</strong> Start be installing <a href="https://maven.apache.org/download.cgi">Maven</a>, a software project management and comprehension tool.
 
@@ -102,7 +103,7 @@ public class Stepdefs {
 </code></pre>
 <div class="blue-alert">
 
-You’ll need to use your Username and Authkey to run your tests on CrossBrowserTesting. To get yours, sign up for a <a 
+You’ll need to use your Username and Authkey to run your tests on Lambdatest. To get yours, sign up for a <a 
 </div>
 <strong>6.</strong> Now you are ready to run your test using the command:
 <pre><code>mvn test</code></pre>
